@@ -1,0 +1,29 @@
+#titulo  {
+color:black;
+}
+
+.btmhome{
+color:mediumpurple;
+font-size: 15px;
+}
+
+.btmnew{
+    color:mediumpurple;
+    font-size: 15px;
+}
+
+.btmpopu{
+    color:mediumpurple;
+    font-size: 15px;
+}
+
+.btmtreding{
+    color:mediumpurple;
+    font-size: 15px;
+}
+
+.btmcategories{
+    color:mediumpurple;
+    font-size: 15px;
+}
+/* Lo de arriba es para dar forma a los botones home, new etc... /*
