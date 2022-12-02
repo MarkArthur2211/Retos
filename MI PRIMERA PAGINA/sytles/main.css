@@ -1,0 +1,33 @@
+.main{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:10px;
+
+}
+.container{
+width: 40%; 
+padding: 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+    
+
+.foto{
+justify-content:center;
+}
+
+.item{
+color:black;
+background: #fff;
+}
+a{
+    text-decoration: none;
+}
+
+a:hover{
+
+text-decoration: none;
+color: orange;
+}
