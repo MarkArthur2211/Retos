@@ -1,33 +1,36 @@
-#titulo  {
+.main{
+    background-color: violet;
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:10px;
+
+}
+.container{
+width: 40%; 
+background: red;
+padding: 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+    
+
+.foto{
+justify-content:center;
+background: blue;
+}
+
+.item{
 color:black;
+background: #fff;
+}
+a{
+    text-decoration: none;
 }
 
-.btmhome{
-color:mediumpurple;
-font-size: 15px;
-}
+a:hover{
 
-.btmnew{
-    color:mediumpurple;
-    font-size: 15px;
-}
-
-.btmpopu{
-    color:mediumpurple;
-    font-size: 15px;
-}
-
-.btmtreding{
-    color:mediumpurple;
-    font-size: 15px;
-}
-
-.btmcategories{
-    color:mediumpurple;
-    font-size: 15px;
-}
-/* Lo de arriba es para dar forma a los botones home, new etc... */
-
-#foto{
-background-image: s;
+text-decoration: none;
+color: red;
 }
