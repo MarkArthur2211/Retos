@@ -56,6 +56,7 @@ height: 400px;
 }
 .linea{
     border-bottom: solid 1px white;
+    font-size: 30px;
 }
 
 .si{
@@ -67,10 +68,16 @@ height: 400px;
 
 .noticias{
     display: flex;
-    gap:20% 10%;
+    gap:20% 25%;
     text-align: left;
+    /* justify-content: space-between; */
 }
-
+.noti{
+    display: flex;
+    gap:20% 30px;
+    text-align: left;
+    /* justify-content: space-between; */
+}
 .titulo1{
     font-size: 20pt;
 }
@@ -83,6 +90,14 @@ height: 400px;
 }
 .boton{
     background-color: orangered;
+    font-size: medium;
 }
 
+.item2{
+    color: #fff;
+    font-size: 25pt;
+}
 
+.not1{
+    
+}
