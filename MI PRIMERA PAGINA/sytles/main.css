@@ -13,21 +13,37 @@ justify-content: space-between;
 align-items: center;
 }
     
-
 .foto{
 justify-content:center;
+
 }
 
 .item{
 color:black;
 background: #fff;
 }
+
 a{
     text-decoration: none;
 }
 
 a:hover{
-
 text-decoration: none;
 color: orange;
+}
+
+.container2{
+    display:flex;
+    background-color:rgba(0,0,26,255);
+    flex-direction:column;
+    align-items: flex-end;
+    margin-left: 65%;
+   
+}
+
+.foto2{
+width: 60%;
+justify-content: center;
+margin-right: 50px;
+
 }
