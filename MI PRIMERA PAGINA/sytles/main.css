@@ -1,0 +1,132 @@
+.main{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:10px;
+}
+
+.container{
+width: 40%; 
+padding: 10px;
+display: flex;
+justify-content: space-between;
+align-items: center;
+}
+
+.foto{
+justify-content:center;
+
+}
+
+.item{
+color:black;
+background: #fff;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+text-decoration: none;
+color: orange;
+}
+
+.general{
+    display: flex;
+    flex-direction: row-reverse;
+    gap: 2rem;
+    margin-bottom: 2rem;
+    justify-content: space-between;
+}
+
+.container2 {
+    display:flex;
+    background-color:rgba(0,0,26,255);
+    flex-direction:column;
+    align-items: baseline;
+    justify-content: space-between;
+    width: 30%;
+   
+}
+
+.noticias {
+    display: flex;
+    flex-direction: column;
+    max-width: 1000px;
+    min-width: 300px;
+    
+}
+
+.noticias .articles {
+    width: 100%;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+
+.foto2{
+    display: flex;
+    height: 400px;
+}
+
+
+.foto2 img{
+    width: 100%;
+    object-fit: cover;
+}
+
+.linea{
+    border-bottom: solid 1px white;
+    font-size: 30px;
+}
+
+.si{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: flex-end;
+    margin:0%;
+}
+
+
+.noti{
+    display: flex;
+    gap:20% 30px;
+    text-align: left;
+    /* justify-content: space-between; */
+}
+.titulo1{
+    font-size: 30pt;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.boton:hover{
+    font-size: 30px;
+    background-color: black;
+    color: #fff;
+
+}
+.boton{
+    background-color: orangered;
+    font-size:14pt;
+}
+
+.item2{
+    color: #fff;
+    font-size: 25pt;
+}
+
+h2, p {
+color: darkgray;
+}
+
+.text-button{
+    color: black;
+    font-family: Arial;
+}
+
+p{
+    font-size: 10pt;
+}
